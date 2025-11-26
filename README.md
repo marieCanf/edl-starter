@@ -1,3 +1,9 @@
+# TaskFlow API
+
+![Backend Tests](https://github.com/marieCanf/eld-starter/workflows/Backend%20Tests/badge.svg)
+![Frontend Tests](https://github.com/marieCanf/eld-starter/workflows/Frontend%20Tests/badge.svg)
+![CI Pipeline](https://github.com/marieCanf/eld-starter/workflows/CI%20Pipeline/badge.svg)
+
 # 🚀 EDL Starter - Code de Démarrage
 
 Bienvenue dans le code de démarrage pour les ateliers d'Environnement de Développement Logiciel (EDL) !
