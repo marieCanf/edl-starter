@@ -1,8 +1,8 @@
 # TaskFlow API
 
-![Backend Tests](https://github.com/marieCanf/eld-starter/workflows/Backend%20Tests/badge.svg)
-![Frontend Tests](https://github.com/marieCanf/eld-starter/workflows/Frontend%20Tests/badge.svg)
-![CI Pipeline](https://github.com/marieCanf/eld-starter/workflows/CI%20Pipeline/badge.svg)
+![Backend Tests](https://github.com/marieCanf/edl-starter/workflows/Backend%20Tests/badge.svg)
+![Frontend Tests](https://github.com/marieCanf/edl-starter/workflows/Frontend%20Tests/badge.svg)
+![CI Pipeline](https://github.com/marieCanf/edl-starter/workflows/CI%20Pipeline/badge.svg)
 
 # 🚀 EDL Starter - Code de Démarrage
 
