@@ -19,7 +19,6 @@ services:
   - type: web
     name: taskflow-frontend
     runtime: static
-    plan: free
     buildCommand: npm ci && npm run build
     staticPublishPath: ./dist
     rootDir: frontend
